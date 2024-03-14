@@ -1,0 +1,7 @@
+flask
+nltk
+Gunicorn
+Flask-Cors
+youtube_transcript_api
+spacy
+en_core_web_sm-3.7.1-py3-none-any.whl
